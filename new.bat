@@ -11,6 +11,6 @@ set HR=%HR: =%
 
 cd C:\Program Files\Git\velu-repo\git-repo\velu
 py -3 "new.py"
-
+>>result.txt
 pause
 exit
